@@ -1,4 +1,5 @@
 # Financial Markets
+~60-80 minutes estimated lecture with slides
 
 ## Learning Objectives and Intro
 - Fonduation of finance industry
@@ -18,7 +19,7 @@
 
 * Answer any questions about the Federal Reserve 
 
-## Banking History (15 minutes)
+## Banking History (10 minutes)
 
 * Ask students "Do you see any issues with fractional reserve system?"
 - In the unlikely event that a majority of customers will withdraw their funds, the banks may have enough available cash.
@@ -43,7 +44,7 @@
 - Possibly one factor that fueled the GFC was lack of OTD regulation, which allowed individuals working at banks to approve bad loans and label them as good loans to sell them off. Regulation has been introduced to prevent this. 
 
 
-## Banks Monetary Policy (30 minutes)
+## Banks Monetary Policy (20 minutes)
 
 - Retail banks set their own rates for lending/borrowing
 - The rate to set between banks is set by the Central Bank
@@ -158,7 +159,7 @@ Securities are financial instruments that are exchanged among the investors in t
 - Market Risk is also known as Systematic Risk
 - Unsystematic Risk is risk inheeret to a specefic company that is not related to the broader market
 
-## Investment Banking Trade Life Cycle (10 Minutes)
+## Investment Banking Trade Life Cycle (5 Minutes)
 
 - Front Office Trading
   - Buy Side
@@ -172,3 +173,8 @@ Other examples of commodities – metal or animals
 
 Ask the class for their understanding each, and ask for examples.
 
+
+## Conclude
+- Answer any questions, recap any main points
+- Ask students to complete the quiz
+- Spend 10 minutes going over answers after quiz
