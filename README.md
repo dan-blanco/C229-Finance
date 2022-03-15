@@ -129,6 +129,46 @@
 
 [Read about Equity Research](https://corporatefinanceinstitute.com/resources/careers/jobs/equity-research-overview/)
 
+**What are Syndicate Loans?**
+Syndicate Loans – a group of people/firms supporting a single loan –i.e. banks, hedge funds, pension funds (spreads risk for lenders and allows them to take part in an investment opportunity that would be too big for them on their own)
+(distinct from multi-bank syndicated loans that a corporate bank would offer, due to different types of investors supporting the loan).
 
+- Investment banks also support:
+  - Bonds and Securities issuances – IPOs and new bond issuance
+  - Corporate Restructuring
+  - Selling off subsidiaries
 
+## Capital Markets (5 Minutes)
+
+**what is the difference between a security and a share?**
+
+Securities are financial instruments that are exchanged among the investors in the forms of debt, equity or an agreement for a specific return value for the principal is decided. Shares are identified as a type of security that aims to raise funds for the corporations from the market.
+
+- Secondary Markets provide liquidity which incentives the existance of the primary market
+
+## Risk (5 Minutes)
+
+- Diversification - A common way to reduce risk. 
+- Efficient Market Hypothesis (EMH) - Markets are priced with all relative available information. The more liquid a market, generally the more efficient it is. No market is completely efficient. 
+- Efficient Portfolio Frontier - A portfolio model that optimizes asset holding allocations based on maximum risk to return ratio. Typically expected returns are calculated with CAPM or past returns.
+- Sharpe Ratio is the risk to return ratio
+
+- Value at Risk (VAR) is a common measure for risk
+
+- Market Risk is also known as Systematic Risk
+- Unsystematic Risk is risk inheeret to a specefic company that is not related to the broader market
+
+## Investment Banking Trade Life Cycle (10 Minutes)
+
+- Front Office Trading
+  - Buy Side
+    - Proprietary Trading - When the firm trades stocks, bonds, currencies, commodities, deriviatives, or any financial product with the firms own money (nostro account)
+   - Sell Side
+    - Involved in creation and selling of financial instruments. Investment banks act as intermediaries between public and market makers
+    - Brookerage and Research are both sell side
+
+## Assets (5 Minutes)
+Other examples of commodities – metal or animals 
+
+Ask the class for their understanding each, and ask for examples.
 
