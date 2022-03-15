@@ -1,5 +1,6 @@
-# Financial Markets
+# Lesson Plan (Financial Markets)
 ~60-80 minutes estimated lecture with slides
+- Follow along with slides
 
 ## Learning Objectives and Intro
 - Fonduation of finance industry
