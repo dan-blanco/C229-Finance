@@ -72,6 +72,7 @@
 - **What effect does interest rate have on inflation?**
 - When the interest rate is high, people are encouraged to save in banks, lowering inflation by reducing spending (demand). Lenders win.
 - When interest rates are low, people are encouraged to find returns in other markets (equities), spend their money, and borrow. The increase spending increases inflation.
+- Increase interest rate increases demand for currency abroad, reducing inflationary pressure.
 
 
 - Examples of Central Banks 
@@ -89,5 +90,6 @@
   - Money supply
   - Monetary policy/Setting Interest Rates
 
+- Quantitative Easing (QE) - 
 
 
