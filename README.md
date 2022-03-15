@@ -1,10 +1,10 @@
 # Lesson Plan (Financial Markets)
 ~60-80 minutes estimated lecture with slides
-- Follow along with [slides](Financial-Markets.pdf)
+- Follow along with [slides](Financial-Markets.pdf).
 - [Quiz with Answers](FinancialMarkets-Answers.pdf)
 
 ## Learning Objectives and Intro
-- Fonduation of finance industry
+- Foundation of the finance industry
 - Type of Banks
 - Understanding of Banks and different business lines banks operate in
 - Financial Products offered by banks
@@ -12,7 +12,7 @@
 
 ## Bank Basics (10 minutes)
 
-* After examining the four main categories of banks, ask students to label some common banks, eg:
+* After examining the four main categories of banks, ask students to label some common banks, e.g.:
   - JPM, Goldman, UBS, Bank of America, CitiGroup, Credit Union
 
 * The central bank of the United States is the Federal Reserve System, or “the Fed,” which Congress established with the 1913 Federal Reserve Act.
@@ -23,42 +23,42 @@
 
 ## Banking History (10 minutes)
 
-* Ask students "Do you see any issues with fractional reserve system?"
+* Ask students, **Do you see any issues with the fractional reserve system?**
 - In the unlikely event that a majority of customers will withdraw their funds, the banks may have enough available cash.
 
 - The oldest bank in the world [Banca Monte dei Paschi di Siena](https://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena)
 
 
 
-- **What are the key aspects of Modern Banking that are a complete departure from the traditional banking model**
+- **What key aspects of Modern Banking are a complete departure from the traditional banking model**
 
-1. Money market funding - CD's and other liquid products dealing in cash
+1. Money market funding - CDs and other liquid products dealing in cash
 
-2. Securitization - Derivative products made out of bank’s own assets or others’ assets, purchased for securitization, like loans and mortgages. A contract for the cashflows from the underlying loans and mortgage repayments
+2. Securitization - Derivative products made out of the bank's assets (or others' assets), purchased for securitization, like loans and mortgages. A contract for the cash flows from the underlying loans and mortgage repayments.
 
-3. Originate to Hold – Bank’s would underwrite the products they issued, like loans, bearing the risk of default 
+3. Originate to Hold – Banks would underwrite the products they issued, like loans, bearing the risk of default 
 
 4. OTD – no limit to the scale of distribution if you don’t have to underwrite the risk
 
 ### 2008 GFC
 
 - There is no answer as to what caused the GFC.
-- Possibly one factor that fueled the GFC was lack of OTD regulation, which allowed individuals working at banks to approve bad loans and label them as good loans to sell them off. Regulation has been introduced to prevent this. 
+- One factor that fueled the GFC was the lack of OTD regulation, which allowed individuals working at banks to approve bad loans and label them as good loans to sell them off. Regulation has been introduced to prevent this. 
 
 
 ## Banks Monetary Policy (20 minutes)
 
-- Retail banks set their own rates for lending/borrowing
-- The rate to set between banks is set by the Central Bank
-- The rate set by the Central Banks usually effects the rates of the retails banks
+- Retail banks set their rates for lending/borrowing.
+- The rate to lend between banks is set by the Central Bank
+- The rate set by the Central Banks usually affects the rates of the retail banks
 
 
 - **What is London Inter-Banking Offered Rate (LIBOR)?**
-  - LIBOR is the benchmark rate which major global banks lend to one another on the International Interbank Market for short-term loans.
+  - LIBOR is the benchmark rate that major global banks lend to one another on the International Interbank Market for short-term loans.
   - [Watch this video on the EuroDollar](https://www.cmegroup.com/education/courses/understanding-stir-futures/what-is-libor-what-is-eurodollar.html)
   - The EuroDollar futures contract allows market participants to hedge/speculate on future interest rates.
 
-- Central banks have a target for inflation and will typtically adjust their interest rates to adjust inflation, or encourage economic growth.
+- Central banks have a target for inflation and will typically adjust their interest rates to adjust inflation or encourage economic growth.
 
 - Ask students to visit the [US Treasury website](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202203) and view some data.
 
