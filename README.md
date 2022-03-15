@@ -49,8 +49,6 @@
 - The rate to set between banks is set by the Central Bank
 - The rate set by the Central Banks usually effects the rates of the retails banks
 
-**What is a liquid asset?**
-- Any asset that can easily be converted to cash in a short amount of time
 
 - **What is London Inter-Banking Offered Rate (LIBOR)?**
   - LIBOR is the benchmark rate which major global banks lend to one another on the International Interbank Market for short-term loans.
@@ -74,6 +72,8 @@
 - When interest rates are low, people are encouraged to find returns in other markets (equities), spend their money, and borrow. The increase spending increases inflation.
 - Increase interest rate increases demand for currency abroad, reducing inflationary pressure.
 
+**What are TIPS?**
+- Inflation Adjusted Bonds, based on the CPI and usually adjusted twice per anum.
 
 - Examples of Central Banks 
   - Bank of England
@@ -90,6 +90,45 @@
   - Money supply
   - Monetary policy/Setting Interest Rates
 
-- Quantitative Easing (QE) - 
+- Quantitative Easing (QE) 
+
+## Corporate Banking (5 Minutes)
+
+**What is a real world example of Cash Management Services?**
+- Amazon needs to pay all of its marketplace sellers – so the customer pays Amazon – Amazon then needs a bank to move all that money to the marketplace sellers’ accounts.  
+
+- Other services not on the slide
+- Loans and other credit products
+- Treasury and cash management services
+- Equipment lending
+- Commercial real estate
+- Trade finance
+- Employer services
+
+## Private Banking and Wealth Management (5 Minutes)
+
+**What is a liquid asset?**
+- Any asset that can easily be converted to cash in a short amount of time. eg. Cash, Shares
+
+## Investment Banking (10 Minutes)
+
+- Professional clients are similar to Angel Investors
+- Institutional investors are investing money on behalf of their members
+
+- **Glass-Steagall Act 1933, which was repealed in 1999** After the Great Depression in America in the 1930s, banks had to either be commercial (corporate banks) or investment banks. If they were investment banks, they couldn’t take deposits, but they could operate in market related activities. If they were corporate banks, they could take deposits but were restricted from market activities. (Glass-Steagall Act 1933, which was repealed in 1999) 
+
+[Read about Glass Steagal](https://corporatefinanceinstitute.com/resources/knowledge/finance/glass-steagall-act/)  			
+
+[investment banking disruption](https://www.cbinsights.com/research/report/disrupting-investment-banking/)
+
+[What do Investment Bankers do?](https://corporatefinanceinstitute.com/resources/careers/jobs/investment-banking-overview/)
+
+[Read about IPO process](https://corporatefinanceinstitute.com/resources/knowledge/finance/ipo-process/) 
+
+[Read about M&A process](https://corporatefinanceinstitute.com/resources/knowledge/deals/mergers-acquisitions-ma-process/)
+
+[Read about Equity Research](https://corporatefinanceinstitute.com/resources/careers/jobs/equity-research-overview/)
+
+
 
 
