@@ -1,6 +1,6 @@
 # Lesson Plan (Financial Markets)
 ~60-80 minutes estimated lecture with slides
-- Follow along with [slides](Financial Markets-2.pdf) 
+- Follow along with [slides](Financial-Markets.pdf) 
 - End of lesson plan [Quiz with Answers](FinancialMarkets-Answers.pdf)
 
 ## Learning Objectives and Intro
