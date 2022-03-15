@@ -43,7 +43,7 @@
 - Possibly one factor that fueled the GFC was lack of OTD regulation, which allowed individuals working at banks to approve bad loans and label them as good loans to sell them off. Regulation has been introduced to prevent this. 
 
 
-### Banks Monetary Policy
+## Banks Monetary Policy (30 minutes)
 
 - Retail banks set their own rates for lending/borrowing
 - The rate to set between banks is set by the Central Bank
@@ -53,8 +53,41 @@
 - Any asset that can easily be converted to cash in a short amount of time
 
 - **What is London Inter-Banking Offered Rate (LIBOR)?**
-  - LIBOR is
+  - LIBOR is the benchmark rate which major global banks lend to one another on the International Interbank Market for short-term loans.
+  - [Watch this video on the EuroDollar](https://www.cmegroup.com/education/courses/understanding-stir-futures/what-is-libor-what-is-eurodollar.html)
+  - The EuroDollar futures contract allows market participants to hedge/speculate on future interest rates.
 
+- Central banks have a target for inflation and will typtically adjust their interest rates to adjust inflation, or encourage economic growth.
+
+- Ask students to visit the [US Treasury website](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202203) and view some data.
+
+- **What is an inverted yeild curve?**
+- An inverted yeild curve is when short term rates are higher than long term rates
+- This is of interest because long term loans have more risk and time associated, and are supposed to be higher than short term rates in a healthy economy
+- Remember, Bond prices go up as rates go down. A surge in demand for long term bonds, with decrease in demand and price of short term debt will cause the yeild curve to invert.
+
+- **How is inflation measured?**
+- Commond index is Consumer Price Index (CPI), and PPI
+
+- **What effect does interest rate have on inflation?**
+- When the interest rate is high, people are encouraged to save in banks, lowering inflation by reducing spending (demand). Lenders win.
+- When interest rates are low, people are encouraged to find returns in other markets (equities), spend their money, and borrow. The increase spending increases inflation.
+
+
+- Examples of Central Banks 
+  - Bank of England
+  - Federal Reserve System
+  - Bank of Canada
+  - European Central Bank
+  - Hong Kong Monetary Authority
+
+- Functions
+  - Holds Bank fractional reserves 
+  - Banking services for the State and other Central Banks
+  - Bank Supervision
+  - Lender of Last Resort
+  - Money supply
+  - Monetary policy/Setting Interest Rates
 
 
 
