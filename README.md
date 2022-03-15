@@ -62,13 +62,13 @@
 
 - Ask students to visit the [US Treasury website](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202203) and view some data.
 
-- **What is an inverted yeild curve?**
-- An inverted yeild curve is when short term rates are higher than long term rates
+- **What is an inverted yield curve?**
+- An inverted yield curve is when short term rates are higher than long term rates
 - This is of interest because long term loans have more risk and time associated, and are supposed to be higher than short term rates in a healthy economy
-- Remember, Bond prices go up as rates go down. A surge in demand for long term bonds, with decrease in demand and price of short term debt will cause the yeild curve to invert.
+- Remember, Bond prices go up as rates go down. A surge in demand for long term bonds, with decrease in demand and price of short term debt will cause the yield curve to invert.
 
 - **How is inflation measured?**
-- Commond index is Consumer Price Index (CPI), and PPI
+- Common index is Consumer Price Index (CPI), and PPI
 
 - **What effect does interest rate have on inflation?**
 - When the interest rate is high, people are encouraged to save in banks, lowering inflation by reducing spending (demand). Lenders win.
@@ -147,7 +147,7 @@ Syndicate Loans – a group of people/firms supporting a single loan –i.e. ban
 
 Securities are financial instruments that are exchanged among the investors in the forms of debt, equity or an agreement for a specific return value for the principal is decided. Shares are identified as a type of security that aims to raise funds for the corporations from the market.
 
-- Secondary Markets provide liquidity which incentives the existance of the primary market
+- Secondary Markets provide liquidity which incentives the existence of the primary market
 
 ## Risk (5 Minutes)
 
@@ -159,16 +159,16 @@ Securities are financial instruments that are exchanged among the investors in t
 - Value at Risk (VAR) is a common measure for risk
 
 - Market Risk is also known as Systematic Risk
-- Unsystematic Risk is risk inheeret to a specefic company that is not related to the broader market
+- Unsystematic Risk is risk inherent to a specific company that is not related to the broader market
 
 ## Investment Banking Trade Life Cycle (5 Minutes)
 
 - Front Office Trading
   - Buy Side
-    - Proprietary Trading - When the firm trades stocks, bonds, currencies, commodities, deriviatives, or any financial product with the firms own money (nostro account)
+    - Proprietary Trading - When the firm trades stocks, bonds, currencies, commodities, derivatives, or any financial product with the firms own money (nostro account)
    - Sell Side
     - Involved in creation and selling of financial instruments. Investment banks act as intermediaries between public and market makers
-    - Brookerage and Research are both sell side
+    - Brokerage and Research are both sell side
 
 ## Assets (5 Minutes)
 Other examples of commodities – metal or animals 
