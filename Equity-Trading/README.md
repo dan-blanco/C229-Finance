@@ -229,3 +229,26 @@ and austerity measures had to be put in place
 ### Circuit Breakers
 - By March 17, 2020, circuit breakers had been [triggered 3 times in one week](https://techcrunch.com/2020/03/16/stock‐markets‐halted‐for‐third‐time‐as‐heavyselling‐trips‐circuit‐breakers‐due‐to‐coronavirus‐scare/) due to
 the economic impact of the global shutdown due to COVID‐19.
+
+## Data (5 minutes)
+
+- Client, reference, and market data are required to trade.
+- Order and execution data is your electronic communication around trading.
+- Expiries are an important part of the equity calendar. Rebalances are quarterly.
+Triple witching is a big day in equities; there is market volatility and a higher volume
+of trading.
+
+- For those in production support/development roles it is important that you
+understand when those days are. There should not be any changes the night before
+and heightened checks on the health of the systems throughout the expiry and during
+the day.
+20
+
+- Move on to "Stock Identifiers" slide
+- CUSIP is similar to ISIN and is typically used by Canada and US ISIN may contain the SEDOL but doesn’t always as part of the code.
+
+
+## Low Touch vs High Touch
+- Low Touch is e-trading, high speed and low latency. 
+  - Facilitates algo trading, high requency and direct market access
+  - Majority of trading is done this way, it is easy to do! 
