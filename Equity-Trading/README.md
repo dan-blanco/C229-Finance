@@ -252,3 +252,51 @@ the day.
 - Low Touch is e-trading, high speed and low latency. 
   - Facilitates algo trading, high requency and direct market access
   - Majority of trading is done this way, it is easy to do! 
+- High Touch trading involves trading off exchange were negotiation and complex deals are made.
+  - Some HT trading involves communicating in person, and then placing trades electronically.
+ 
+### Trading Day
+- It is important to understand how the trading day is structured. While continuous
+trading is open, the market is always moving so every second counts. If you are
+dealing with production issues, the urgency to resolve an issue will go up as you
+approach the closing auction phase of the day. Traders will need to close out their
+positions so they do not have risk overnight; if for some reason they cannot trade,
+they will hedge their risks by buying some options/futures etc.
+
+### Order Types
+- Order types are your electronic way of specifying how you trade. Market and limit
+are the two standard orders you would see in use most of the time.
+
+## What is an Order Book?
+- Live display of what orders in a stock are active on exchange
+- Spread – the difference between the highest bid price and
+the lowest ask price
+
+- Most of the time, orderbooks are displayed with the bids on the left and asks on the
+right as above.
+- If at some point you see a bid price higher than that of an ask price you have a
+crossed orderbook and it is likely that stock is in an auction or there is a problem with
+market data.
+
+- There is regulation on shorting stocks, to prevent market volatility.
+
+- In addition to Basis Points, and Stock Ticks, Tick Size is a useful term that tells you the minimum increment of a financial product. 
+
+## Listing on Multiple Exchanges
+- Cross listing - process of listing common shares on different exchanges, other than its primary exchange.
+
+### Alternate Trading System (ATS)
+- Venue to match buy and sell orders, however, it is not regulated by any exchange.
+- Other names include
+  - Multilateral trading facilities (Europe)
+  - Electronic communication networks (ECNS)
+  - Cross networks
+- Most ATS are registered and regulated as a broker dealer (Trade on behalf of itself and/or others)
+- Some ATS are LIT venues (order book is visible to public)
+- Others are Dark Pools (Closed to the public)
+
+- Since being on multiple venues adds regulation and compli
+
+
+
+
