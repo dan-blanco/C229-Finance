@@ -138,3 +138,9 @@ https://www.Investopedia.com/terms/h/hedgefund.asp
 [NDXE Methodology](https://indexes.nasdaqomx.com/docs/methodology_NDXE.pdf)
 
 [NDX Methodology](https://indexes.nasdaqomx.com/docs/Methodology_NDX.pdf)
+
+## American Depositary Receipts (ADR)
+- Allow investing in foreign companies on a US stock exchange
+- ADR is a certificate issues by the bank. The ADR can represent any number of shares.
+- Automatically converts dividends to USD
+- Foreign companies can attract US investors
