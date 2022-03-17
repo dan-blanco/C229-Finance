@@ -162,7 +162,7 @@ shares on London in   and 6 in Europe in Euros.
 - Pick a Market Crash, explain what happened and what the underlying cause was.
 
 <details>  
-  <summary>Market Crash Summaries</summary>. 
+  <summary>Market Crash Summaries</summary>  
   
 ### Wall Street crash of 1929
 • Started on Oct 24, 1929
@@ -177,7 +177,8 @@ stabilize the banks
 • The crash was made worse by a collapse of a parallel boom in foreign bonds
 • Due to the huge economic repercussions, 25% of Americas workforce lost their
 jobs and it forced the government to introduce regulations
-Black Monday 1987
+
+ ### Black Monday 1987
 • Dow Jones lost 22% in a single day – Oct 19, 1987
 • By end of October most major exchanges were down 20%
 • Several events created panic among investors
