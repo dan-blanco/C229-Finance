@@ -186,7 +186,9 @@ jobs and it forced the government to introduce regulations
 • Oil tensions between Kuwait and Iran
 • Media also amplified these issues
 • General sentiment is panic caused the crash to escalate
-Tech Bubble 2000
+  
+  
+### Tech Bubble 2000
 • Also known as the Internet bubble, markets saw a rapid rise in US tech stock
 valuations fueled by investments in Internet‐based companies during the late 90s
 • Nasdaq index rose from 1000 to 5000 between 1995‐2000
@@ -196,7 +198,9 @@ valuations fueled by investments in Internet‐based companies during the late 9
 • Underlying issues were caused by funding for startups that failed to become
 profitable. Companies without any prop technology abandoned fiscal
 responsibility and spent most money on marketing
-Global Financial Crash
+  
+  
+### Global Financial Crash
 • Considered the biggest downturn since the Great Depression
 • US housing market went from boom to bust and large amounts of MBS lost their
 value
@@ -204,7 +208,7 @@ value
 obligations
 • Bear Stearns collapsed in March 2008
 • Lehman Brothers went bankrupt in September 2008
-Flash Crash 2010
+### Flash Crash 2010
 • May 6, 2010, shortly after 2:30 pm the Dow Jones Industrial Average fell more
 than 1000 points in 10 minutes
 • Over 1 trillion dollars in equity was gone, although the market regained by 70% by
@@ -213,7 +217,7 @@ end of day
 • Caused by a trader in London quickly buying and selling hundreds of E‐Mini S&P
 futures contracts through the CME
 • Rise of electronic trading and algos likely made this situation worse
-Greek Debt crisis 2011
+### Greek Debt crisis 2011
 • Due to the Greek government’s fiscal policies that included too much spending
 • After the 2008 financial crisis, the debt Greece had accumulated became too large
 and austerity measures had to be put in place
