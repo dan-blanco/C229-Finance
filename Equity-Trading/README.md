@@ -144,3 +144,77 @@ https://www.Investopedia.com/terms/h/hedgefund.asp
 - ADR is a certificate issues by the bank. The ADR can represent any number of shares.
 - Automatically converts dividends to USD
 - Foreign companies can attract US investors
+- TM, BABA, BHP
+
+- Shares in the US tend to trade in the $100 region whereas shares in the UK trade in
+the $/ 1 region, and rather than changing the minimum share price rules on
+exchanges, they bundle the shares. E.g., 1 unit of HSBC ADR might be 12 common
+shares. These are fungible, so you can buy a HSBC ADR in dollars and then sell 6 HSBC
+shares on London in   and 6 in Europe in Euros.
+
+[ADR Bulletin](https://www.sec.gov/investor/alerts/adr‐bulletin.pdf)
+[What are ADRs](https://corporatefinanceinstitute.com/resources/knowledge/tradinginvesting/american‐depositary‐receipts/)
+
+## Market Crashes (Student Activity 30 minutes)
+- 20 minutes to create a presentation
+- Presentation 2‐3 mins
+- Groups of 3
+- Pick a Market Crash, explain what happened and what the underlying cause was.
+
+<details><summary>Market Crash Summaries</summary>
+Wall Street crash of 1929
+• Started on Oct 24, 1929
+• Largest fall for Dow Jones was over the following two years reaching a low on July
+8, 1932 (down 89% from Sep 1929)
+17
+• Did not return to its high of 1929 until Nov 1954
+• News around regulation changes in October 1929 prompted a sell off through the
+financial system
+• The Fed thought that the sell off was necessary and did nothing to attempt to
+stabilize the banks
+• The crash was made worse by a collapse of a parallel boom in foreign bonds
+• Due to the huge economic repercussions, 25% of Americas workforce lost their
+jobs and it forced the government to introduce regulations
+Black Monday 1987
+• Dow Jones lost 22% in a single day – Oct 19, 1987
+• By end of October most major exchanges were down 20%
+• Several events created panic among investors
+• Trade deficit of the US widened with respect to other countries
+• Oil tensions between Kuwait and Iran
+• Media also amplified these issues
+• General sentiment is panic caused the crash to escalate
+Tech Bubble 2000
+• Also known as the Internet bubble, markets saw a rapid rise in US tech stock
+valuations fueled by investments in Internet‐based companies during the late 90s
+• Nasdaq index rose from 1000 to 5000 between 1995‐2000
+• Crash saw the index fall by 76.81% between March 10, 2000 and Oct 4, 2002
+• By the end of 2001, most dotcom stocks had gone bust
+• It took 15 years for Nasdaq to regain its dotcom peak
+• Underlying issues were caused by funding for startups that failed to become
+profitable. Companies without any prop technology abandoned fiscal
+responsibility and spent most money on marketing
+Global Financial Crash
+• Considered the biggest downturn since the Great Depression
+• US housing market went from boom to bust and large amounts of MBS lost their
+value
+• Financial companies took on too much risk and were unable to meet their credit
+obligations
+• Bear Stearns collapsed in March 2008
+• Lehman Brothers went bankrupt in September 2008
+Flash Crash 2010
+• May 6, 2010, shortly after 2:30 pm the Dow Jones Industrial Average fell more
+than 1000 points in 10 minutes
+• Over 1 trillion dollars in equity was gone, although the market regained by 70% by
+17
+end of day
+• Caused by a trader in London quickly buying and selling hundreds of E‐Mini S&P
+futures contracts through the CME
+• Rise of electronic trading and algos likely made this situation worse
+Greek Debt crisis 2011
+• Due to the Greek government’s fiscal policies that included too much spending
+• After the 2008 financial crisis, the debt Greece had accumulated became too large
+and austerity measures had to be put in place
+• The debt to GDP ratio reached 180% in 2011
+• Caused turmoil across the global markets due to exposure to this sovereign debt
+• Austerity measures across Greece likely in place for decades
+</details>
