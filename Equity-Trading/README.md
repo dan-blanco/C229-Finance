@@ -73,3 +73,9 @@ stockholders (GOOG).
 - Keeps the founders in control. 
 - It is harder for a founder to sell a small portion, keeps founder 
 
+## IPO Activity
+- Search some companies that had an IPO within the past 5 years.
+- Market sentiment and volatility have significant ramifications on equtiy prices.
+
+
+
