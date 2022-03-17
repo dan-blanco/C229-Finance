@@ -111,5 +111,30 @@ judgement calls on what is going on
 
 Higher liquidity means it is easer to enter and exit positions at a fair price. Depends on company too, not just exchange.
 
+### Market Participants
+- Speculators 
+- Investors
+- Market Makers
+
+- Volcker Rule - Regulations around speculation and banks being allowed to promote non-public funds
+- A day trader buys and sells stocks, ending the trading day with cash and no stocks
+(known as open positions).
+
+- Hedge funds use different investment strategies: they are alternate investment
+vehicles as they employ a variety of strategies to generate profit. To find out more
+about hedge funds visit Investopedia
+https://www.Investopedia.com/terms/h/hedgefund.asp
+
+### Market Index 
+
+- Hypothetical portfolio of investments (Basket) representing a segment of the financial market
+- Aggregates the price of the securities
+- This reduces unsystematic risk, or risk that is only inherit to a single company
+- The three most popular stock indexes for tracking the US markets are the Dow Jones, S&P 500, and Nasdaq Composite.
+
+- **The world’s first stock index, Dow Jones Transportation Index,** was published by Charles Dow on July 3, 1884. It had 11 transportation stocks including 9 railway companies.
 
 
+[NDXE Methodology](https://indexes.nasdaqomx.com/docs/methodology_NDXE.pdf)
+
+[NDX Methodology](https://indexes.nasdaqomx.com/docs/Methodology_NDX.pdf)
