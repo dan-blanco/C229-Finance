@@ -77,5 +77,39 @@ stockholders (GOOG).
 - Search some companies that had an IPO within the past 5 years.
 - Market sentiment and volatility have significant ramifications on equtiy prices.
 
+## Stock Exchanges
+- Electronic Market Places for Trading Shares
+- Stocks are listed on ONE Domestic exchange
+  - However, they can be on other venues (even international).
+- Companies pay listing fee, and annual fees to be on exchange
+- NYSE: New York Stock Exchange – physical exchange, auction market
+
+- Stock markets are a place where individuals as well as institutional investors can buy
+and sell shares in a public venue. These are electronic market places these days.
+
+- The earliest exchanges were in Europe in the 16th/17th century – mainly in cities
+with ports such as London, Antwerp, or Amsterdam. These were more like bond exchanges.
+
+## Trading Fundamentals
+- VIX is the volatility index for the SP500
+- AKA Fear index
+
+- Equities is the 'plural' of shares and references a collection of shares in the same
+company.
+
+**Why invest in equties?**
+- Regular Income
+- High Liquidity
+- Capital Growth
+- Long Term investing
+- Transparent Marketplace
+- Ownership Voting Rights
+- Limited Liability - You can only lose what you invest
+
+**Transparent marketplace** - on exchange trading. This makes it easier to make
+judgement calls on what is going on
+
+Higher liquidity means it is easer to enter and exit positions at a fair price. Depends on company too, not just exchange.
+
 
 
