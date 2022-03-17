@@ -161,7 +161,9 @@ shares on London in   and 6 in Europe in Euros.
 - Groups of 3
 - Pick a Market Crash, explain what happened and what the underlying cause was.
 
-<details><summary>Market Crash Summaries</summary>
+<details>  
+  <summary>Market Crash Summaries</summary>. 
+  
 ### Wall Street crash of 1929
 • Started on Oct 24, 1929
 • Largest fall for Dow Jones was over the following two years reaching a low on July
