@@ -225,3 +225,7 @@ and austerity measures had to be put in place
 • Caused turmoil across the global markets due to exposure to this sovereign debt
 • Austerity measures across Greece likely in place for decades
 </details>
+
+### Circuit Breakers
+- By March 17, 2020, circuit breakers had been [triggered 3 times in one week](https://techcrunch.com/2020/03/16/stock‐markets‐halted‐for‐third‐time‐as‐heavyselling‐trips‐circuit‐breakers‐due‐to‐coronavirus‐scare/) due to
+the economic impact of the global shutdown due to COVID‐19.
