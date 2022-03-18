@@ -68,7 +68,9 @@
 - Remember, Bond prices go up as rates go down. A surge in demand for long term bonds, with decrease in demand and price of short term debt will cause the yield curve to invert.
 
 - **How is inflation measured?**
-- Common index is Consumer Price Index (CPI), and PPI
+- Common index is Consumer Price Index (CPI), and [Producer Price Index (PPI)](https://fred.stlouisfed.org/series/PPIACO)
+- PPI measures the cost to produce goods, and is considered a better metric for inflation
+- 
 
 - **What effect does interest rate have on inflation?**
 - When the interest rate is high, people are encouraged to save in banks, lowering inflation by reducing spending (demand). Lenders win.
